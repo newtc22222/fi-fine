@@ -345,6 +345,6 @@ int main()
 	arr = new int[n];
 	inputArray(arr, n);
 	selection(arr, n);
-	//outputArray(arr, n);
+	//outputArray(arr, n)///;
 	delete []arr;
 }
